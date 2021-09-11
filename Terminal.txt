@@ -1,0 +1,30 @@
+List fonction Terminal
+
+pwd -> Où je suis, dans quel dossier
+
+ls -> Lister le contenu du dossier
+
+cd -> Changer de dossier
+
+cd.. -> Remonter dans un dossier parent
+
+mkdir -> Création de dossier
+
+touch -> Création d'un ficher
+
+mv -> Changer de dossier  ---- écriture mv "nom du fichier" "destination"
+
+rm -> Supprimer un fichier
+
+------------------------
+
+List git fonctions
+
+Git init -> Initialisation 
+
+Git status -> état des lieux à l'instant T
+
+Git add -> ajouter un fichier à la sauvegarde
+
+Git commit -m -> sauvegarde + message
+
