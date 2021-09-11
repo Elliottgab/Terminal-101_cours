@@ -28,3 +28,6 @@ Git add -> ajouter un fichier à la sauvegarde
 
 Git commit -m -> sauvegarde + message
 
+Git diff -> affichage des changements
+
+
